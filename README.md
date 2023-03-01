@@ -3,7 +3,7 @@
 
 <p id="description">PharmEasy is an Indian e-pharmacy company that sells medicines, diagnostics and telehealth online.</p>
 
-[Demo Link]{"https://naive-cast-183.vercel.app/"}
+[Demo Link]{https://naive-cast-183.vercel.app/}
 <h2>Project Screenshots:</h2>
 
 <img src="https://res.cloudinary.com/didawtzbf/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1668521191/p1_cm23ek.jpg" alt="project-screenshot" width="100%" height="400px/">
